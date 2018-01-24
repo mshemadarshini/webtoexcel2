@@ -11,6 +11,11 @@ from docx import Document
 from docx.shared import Inches
 from openpyxl import Workbook
 
+#COMMIT CHANGES
+#this is a new ways of committing changes
+
+
+
 # Launch Chrome Driver
 browser = webdriver.Chrome("C:\Selenium\chrome\chromedriver_win32\chromedriver.exe")
 browser.implicitly_wait(50)
